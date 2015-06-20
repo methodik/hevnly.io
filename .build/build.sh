@@ -6,4 +6,4 @@ fi
 
 rsync -ar --exclude=.*/ ../ build/
 
-find ./build -name 'README.md' -exec ./render.sh {} \;
+find ./build -name 'README.md' -exec ./render.sh {} $1 $2 \;
