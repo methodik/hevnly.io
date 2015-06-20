@@ -1,4 +1,3 @@
-# [hevnly.io](http://hevnly.io) #
 this is the developer channel for [hevnly.com](https://hevnly.com).
 ## about hevnly ##
 hevnly is the perfect way to discover and buy beautiful things and connect with stylish individuals around the world.
