@@ -21,6 +21,6 @@ You can use hevnly to express your own personal style or even just to keep up to
 + horizontal scaling
 
 # tech stack #
-what ever is best for the project. monolithic systems are not hevnly and neither is forcing people to use a language that does not suit the project. [@hevnlylabs](https://twitter.com/hevnlylabs) follows most of the tech that is currently used
+what ever is best for the project. monolithic systems are not hevnly and neither is forcing people to use a language that does not suit the project. [@hevnlylabs](https://twitter.com/hevnlylabs) follows most of the tech that is currently used.
 # open-source #
-every project hevnly considers ends up with the question "can we open source this?". it's not fair or right to build systems using open-source projects and not give what you can back to the community. check out what has been done so far [github](https://github.com/hevnly/)
+every project hevnly considers ends up with the question "can we open source this?". it's not fair or right to build systems using open-source projects and not give what you can back to the community. check out what has been done so far at [github](https://github.com/hevnly/)
