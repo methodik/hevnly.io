@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+- '0.12'
+script:
+- cd .build/
+- ./build.sh ../.templates/header.html ../.templates/footer.html
+deploy:
+  provider: s3
+  access_key_id: AKIAIFVKJ4HIOOJQUNDQ
+  secret_access_key:
+    secure: MSpa30tnqdqgNicLGFdK3Z9FMy3U8MCadvTUXcFjD9EYaXMvxpXCgFMyFx/pXcuimBeHiXfOJ55ZzeTtAKUEbZ6Tor0L8aePqyFEM9o0tKBoM12By95MCVwqPDRQEY4nhnAvXKU7pZ9qEIqJK5MDcIe6DgvSCwXZSIyU7RAP/eBBr8iEBdbeq29d85TzLaikUXrTxkU051Pyjs5y2Nt9xqQsQoY5oACla4f4VaI1Ef70Nn35HpwL8l5+AIGja37+F2GvfujyedH/WfUic1nb24oVGvSg9J+mkZxv94CvKhV1laN0Y5/rabA94cEfdDaDY+W8rKkBHv2XpBx6SGU4RbNwxaF1xnBCrugmq8U9ztIdNka7ad2Nt5Z+Q/5Iq9GhE8CTGZotZ7LmcFUT3xyQKNa2bD6vLsDgCXuDGyOcIP4cnlC7WxiKOf/WG0ea9BeuN9RwFTsZBAITmukWxQ6UsP1eTWUiKi4qk15fX2B3jWQ1dUAUZ657Hq1vJ02r384J1bYSvTCXa5aJTvNaW1jPj83wR7KPnT5c+GVHgZ9UZau+vxLXn9kLRK2Kbl4HSDawY63LwyLro0qHatQjflc6vqLkXq3FCbsEJxuk2g0YilRpqJv/csHYxkl63DkyFYPZZ1WVtPAR4zEAN8S6tK1eO8EBdac3HZQL2qJFhkC2TEE=
+  bucket: hevnly.io
+  skip_cleanup: true
+  acl: public_read
+  local_dir: .build/build
