@@ -4,3 +4,13 @@ body {
   margin: 2em auto;
   max-width: 35em;
 }
+
+header h1 {
+	margin-top: -0.8em
+}
+
+header img.logo {
+	display: block;
+	margin: auto auto;
+	height: 4em;
+}
