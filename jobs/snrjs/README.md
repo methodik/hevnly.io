@@ -1,4 +1,4 @@
-## Senior JavaScript developer ##
+## senior JavaScript developer ##
 hevnly is always looking for good developers. micro service architecture allows complete flexibility when deciding what language / tech to use for specific projects. however if you have experience in the following, hevnly would love to hear from you.
 
 ### really would like ###
