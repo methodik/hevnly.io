@@ -12,6 +12,7 @@ you can use hevnly to express your own personal style or even just to keep up to
 
 ### technical ideologies ###
 + dotadiw
++ kiss
 + micro services
 + use the best language for the job
 + lots of small deploys
