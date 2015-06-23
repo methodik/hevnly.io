@@ -20,4 +20,4 @@ type: permanent
 + [chef](https://www.chef.io/)
 
 ## interested? ##
-please apply via this link; http://hevn.ly/sejs
+please apply via this link; [http://hevn.ly/sejs](http://hevn.ly/sejs)
