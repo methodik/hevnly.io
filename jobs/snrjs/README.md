@@ -1,6 +1,11 @@
 ## senior JavaScript developer ##
 hevnly is always looking for good developers. micro service architecture allows complete flexibility when deciding what language / tech to use for specific projects. however if you have experience in the following, hevnly would love to hear from you.
 
+## deets ##
+location: central london
+
+type: permanent
+
 ### really would like ###
 + [backbone.js](http://backbonejs.org/)
 + [node.js](https://nodejs.org/)
@@ -15,10 +20,4 @@ hevnly is always looking for good developers. micro service architecture allows 
 + [chef](https://www.chef.io/)
 
 ## interested? ##
-send an email to [play@hevnly.com](mailto:play@hevnly.com?Subject=apply%20for%20snr%20js) with some of the following;
-
-+ cv
-+ linkedIn profile
-+ github / bitbucket profile
-+ links to some sample projects
-+ any links to some form of on-line existence is good
+please apply via this link; http://hevn.ly/sejs
