@@ -1,5 +1,5 @@
 ## senior JavaScript developer ##
-hevnly is located at the heart of the london's tech scene and is a two minute walk from the most amazing street food. is cutting edge tech and great lunches what you are looking for? then please read on.
+hevnly is located in the heart of london's tech scene and is a two minute walk from the most amazing street food. is cutting edge tech and great lunches what you are looking for? then please read on.
 
 micro service architecture allows us complete flexibility when we are deciding what language and or tech to use for our new projects. do you find your self thinking "I would love to work with that cool tool I just found in a production environment"? if so we think it would be great if you joined our team.
 
