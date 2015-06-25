@@ -1,6 +1,5 @@
 ## senior JavaScript developer ##
-
-hevnly sprouted in the garden of London's sillicon roundabout and is a two minute walk from London's best street food. if cutting edge tech and great lunches are what you're looking for, this is the job for you.
+hevnly sprouted in the garden of London's sillicon roundabout and is a two minute walk from some of the best street food in town. if cutting edge tech and great lunches are what you're looking for, this is the job for you.
 
 our core product is a single page responsive web app, and we want you to translate our useful & beautiful prototypes into production ready user-interfaces. We're a team of 6 designers and developers that collaborate when we design and code, whether it's creating an internal tool from scratch or planning out complex animations in our customer facing site.
 
@@ -28,6 +27,6 @@ micro service architecture allows us complete flexibility when we are deciding w
 * you'll be working with less, not sass
 
 ### are you still interested? ###
-we hope you are and if so, why not join the team? please apply via the following link; http://hevn.ly/sejs
+we hope you are and if so, why not join the team? please apply via the following link; [http://hevn.ly/sejs](http://hevn.ly/sejs)
 
 as an equal opportunity employer we value diversity. we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
