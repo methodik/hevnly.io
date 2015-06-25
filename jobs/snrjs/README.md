@@ -1,24 +1,22 @@
 ## senior JavaScript developer ##
-hevnly is always looking for good developers. micro service architecture allows complete flexibility when deciding what language / tech to use for specific projects. however if you have experience in the following, hevnly would love to hear from you.
+hevnly is located in the heart of london's tech scene and is a two minute walk from the most amazing street food. is cutting edge tech and great lunches what you are looking for? then please read on.
 
-### really would like ###
+micro service architecture allows us complete flexibility when we are deciding what language and or tech to use for our new projects. do you find your self thinking "I would love to work with that cool tool I just found in a production environment"? if so we think it would be great if you joined our team.
+
+### if you know these, what a great start ###
 + [backbone.js](http://backbonejs.org/)
 + [node.js](https://nodejs.org/)
-+ leading a project from start to finish
-+ mentoring less experienced developers
++ leading a project from design to deploy
++ mentoring less experienced developers to become tech leads
 
-### bonus points for ###
+### if you have these in your locker, then perfect ###
 + experience using aws
 + releasing projects as open source
 + [d3js](http://d3js.org/)
 + [docker](https://www.docker.com/)
 + [chef](https://www.chef.io/)
 
-## interested? ##
-send an email to [play@hevnly.com](mailto:play@hevnly.com?Subject=apply%20for%20snr%20js) with some of the following;
+## are you still interested? ##
+we hope you are and if so why not join the team? please apply via the following link; [http://hevn.ly/sejs](http://hevn.ly/sejs)
 
-+ cv
-+ linkedIn profile
-+ github / bitbucket profile
-+ links to some sample projects
-+ any links to some form of on-line existence is good
+as an equal opportunity employer we value diversity. we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
