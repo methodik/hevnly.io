@@ -27,6 +27,6 @@ Micro service architecture allows us to be flexable when we are deciding what la
 * You'll have a big desk
 
 ### Are you still interested? ###
-We hope you are and if so, why not join the team? Please apply via the following link; [http://hevn.ly/sejs](http://hevn.ly/sejs)
+We hope you are and if so, why not join the team? Please email us at [play@hevnly.com](mailto:play@hevnly.com?Subject=Application%20for%20snr Javascript)
 
 As an equal opportunity employer we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
