@@ -6,7 +6,7 @@ Here are the people that make Hevnly tech happen.
 ### Mario (Node.js) ###
 Mario is hevnly's javascript ninja. He codes server side apps using node.js and hapijs. He writes automated tests using mocha-js just to make sure he only delivers rock solid code. If there's a problem, then he'll code a solution. In his free time, Mario enjoys coding javascript for a change.
 
-He's also a striper in a night club to raise money for charity.
+He's also a stripper in a night club to raise money for charity.
 
 ### Chris (Devops) ###
 
