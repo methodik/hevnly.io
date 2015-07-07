@@ -1,22 +1,32 @@
-## senior JavaScript developer ##
-hevnly is located in the heart of london's tech scene and is a two minute walk from the most amazing street food. is cutting edge tech and great lunches what you are looking for? then please read on.
+## Senior JavaScript developer ##
+Hevnly sprouted in the garden of London's sillicon roundabout and is a two minute walk from some of the best street food in town. If cutting edge tech and great lunches are what you're looking for, this is the job for you.
 
-micro service architecture allows us complete flexibility when we are deciding what language and or tech to use for our new projects. do you find your self thinking "I would love to work with that cool tool I just found in a production environment"? if so we think it would be great if you joined our team.
+Our core product is a single page responsive web app, and we want you to translate our useful & beautiful prototypes into production ready user-interfaces. We're a team of six designers and developers that collaborate when we design and code, whether it's creating an internal tool from scratch or planning out complex animations in our customer facing site.
 
-### if you know these, what a great start ###
-+ [backbone.js](http://backbonejs.org/)
-+ [node.js](https://nodejs.org/)
-+ leading a project from design to deploy
-+ mentoring less experienced developers to become tech leads
+Micro service architecture allows us to be flexable when we are deciding what language and or tech to use for our new projects. Do you find your self thinking "I would love to work with that cool tool I just found in a production environment"? If so we think it would be great if you joined our team.
 
-### if you have these in your locker, then perfect ###
-+ experience using aws
-+ releasing projects as open source
-+ [d3js](http://d3js.org/)
-+ [docker](https://www.docker.com/)
-+ [chef](https://www.chef.io/)
+### If you know these, what a great start ###
+* Backbone.js
+* Node.js
+* Leading a project from design to deploy
+* Mentoring less experienced developers to become tech leads
 
-## are you still interested? ##
-we hope you are and if so why not join the team? please apply via the following link; [http://hevn.ly/sejs](http://hevn.ly/sejs)
+### If you have these in your locker, then perfect ###
+* Experience using aws
+* Releasing projects as open source
+* D3js
+* Docker
+* Chef
+* CSS / LESS
 
-as an equal opportunity employer we value diversity. we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
+
+### Things we think you'll like ###
+* You can work on open source projects
+* You'll only have to allow for a shallow browser support
+* We let people get on with what they need to do
+* You'll have a big desk
+
+### Are you still interested? ###
+We hope you are and if so, why not join the team? Please email us at [play@hevnly.com](mailto:play@hevnly.com?Subject=Application%20for%20snr Javascript)
+
+As an equal opportunity employer we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
