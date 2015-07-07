@@ -1,11 +1,11 @@
-* {
-  width: 100%;
-}
-
 body {
   max-width: 35em;
   margin: 0 auto;
   padding: 0 1em 1em 1em;
   font-size: 1em;
   line-height: 1.5;
+}
+
+.content-root * {
+  width: 100%;
 }
