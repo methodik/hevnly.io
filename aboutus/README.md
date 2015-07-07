@@ -3,7 +3,7 @@ Here are the people that make Hevnly tech happen.
 
 ### Hector (JavaScript) ###
 
-### Mario (JavaScript/Node.js) ###
+### Mario (Node.js) ###
 
 ### Chris (Devops) ###
 
