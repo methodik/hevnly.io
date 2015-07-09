@@ -10,7 +10,9 @@ Mario codes server side apps using node.js and hapijs. He writes automated tests
 A cross between Willy Fog and a Neural Networks nerd, Chris draws on his long experience in tech to boldly go where no devops has gone before. His latest mission is to make Go and AWS reach Hevnly status. When not coding, he likes to randomly ask everyone for contrasted peer reviews on current topics, such as his inability to play FIFA as Barcelona FC and win. 
 
 ### Leandro (PHP) ###
-Argentinian
+Leandro is the go-to guy when it comes to PHP and anything to do with our Vagrant Machine. He's hevnly's in-house backend guy, seamlessly juggling multiple tasks and problems which hevnly's dev team constantly throws at him. He's a great source of knowledge when it comes to all things software, both front-end and back-end.
+
+It's all good with Leandro, as long as you don't mention Boca Juniors.
 
 ![Mat bio pic](/img/mat-bio-page.jpg "Mat bio pic")
 ### Mat (UI/UX) ###
