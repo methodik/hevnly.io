@@ -7,8 +7,10 @@ Here are the people that make Hevnly tech happen.
 Mario codes server side apps using node.js and hapijs. He writes automated tests using mocha-js just to make sure he only delivers rock solid code. If there's a problem, then he'll code a solution. In his free time, Mario enjoys coding javascript, he loves it.
 
 ### Chris (Devops) ###
+A cross between Willy Fog and a Neural Networks nerd, Chris draws on his long experience in tech to boldly go where no devops has gone before. His latest mission is to make Go and AWS reach Hevnly status. When not coding, he likes to randomly ask everyone for contrasted peer reviews on current topics, such as his inability to play FIFA as Barcelona FC and win. 
 
 ### Leandro (PHP) ###
+Argentinian
 
 ![Mat bio pic](/img/mat-bio-page.jpg "Mat bio pic")
 ### Mat (UI/UX) ###
