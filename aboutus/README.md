@@ -2,6 +2,7 @@
 Here are the people that make Hevnly tech happen.
 
 ### Hector (JavaScript) ###
+Coder. Engineer. Perfectionist. Hector draws on over a decade of experience to bring hevnly to life on screens small and large. Typically involved from concept development all the way through to deploy, mentoring less experienced devleopers. Has a seemingly never ending enthusiasm for simplicity and elegance.
 
 ### Mario (Node.js) ###
 Mario codes server side apps using node.js and hapijs. He writes automated tests using mocha-js just to make sure he only delivers rock solid code. If there's a problem, then he'll code a solution. In his free time, Mario enjoys coding javascript, he loves it.
