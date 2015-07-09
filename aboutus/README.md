@@ -11,7 +11,7 @@ He's also a stripper in a night club to raise money for charity.
 ### Chris (Devops) ###
 
 ### Leandro (PHP) ###
-Leandro is the go-to guy when it comes to PHP and anything to do with our VM. He's hevnly's in-house backend guy, seamlessly juggling multiple tasks and problems which hevnly's dev team constantly throws at him. He's a great source of knowledge when it comes to all things software, both front-end and back-end.
+Leandro is the go-to guy when it comes to PHP and anything to do with our Vagrant Machine. He's hevnly's in-house backend guy, seamlessly juggling multiple tasks and problems which hevnly's dev team constantly throws at him. He's a great source of knowledge when it comes to all things software, both front-end and back-end.
 
 It's all good with Leandro, as long as you don't mention Boca Juniors.
 
